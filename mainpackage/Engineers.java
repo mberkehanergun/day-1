@@ -1,7 +1,5 @@
 package mainpackage;
 
-import java.util.Scanner;
-
 public class Engineers {
 	
 	private ComputerEngineer ce1;
