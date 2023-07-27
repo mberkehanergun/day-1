@@ -27,7 +27,7 @@ public class EngineersLoginApp {
 			//do stuff
 		}
 		scanner.close();
-		ctx.registerShutdownHook();
+		ctx.close();
 	}
 
 }
